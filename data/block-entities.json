@@ -1,0 +1,30 @@
+{
+  "bedColours": [
+    "white",
+    "orange",
+    "magenta",
+    "light_blue",
+    "yellow",
+    "lime",
+    "pink",
+    "gray",
+    "light_gray",
+    "cyan",
+    "purple",
+    "blue",
+    "brown",
+    "green",
+    "red",
+    "black"
+  ],
+  "potted": {
+    "cactus": "potted_cactus",
+    "deadbush": "potted_dead_bush",
+    "red_flower": "potted_poppy",
+    "yellow_flower": "potted_dandelion",
+    "sapling": "potted_oak_sapling",
+    "brown_mushroom": "potted_brown_mushroom",
+    "red_mushroom": "potted_red_mushroom",
+    "buttercup": "potted_dandelion"
+  }
+}

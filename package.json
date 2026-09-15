@@ -1,0 +1,20 @@
+{
+  "name": "earth-to-java-structure-converter",
+  "version": "1.0.0",
+  "description": "Convert Minecraft Earth buildplates into Java structure files",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "earth-to-java-structure-converter": "index.js"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "data/"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MPL-2.0",
+  "private": true
+}

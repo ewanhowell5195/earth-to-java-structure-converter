@@ -1,0 +1,15 @@
+{
+  "invisible_constraint": null,
+  "border_constraint": null,
+  "blend_constraint": null,
+  "rainbow_wool": "red_wool",
+  "rainbow_carpet": "red_carpet",
+  "rainbow_bed": "@rainbow_bed",
+  "buttercup": "dandelion",
+  "adventure_chest": "@chest",
+  "adventure_chest_common": "@chest",
+  "adventure_chest_uncommon": "@chest",
+  "adventure_chest_rare": "@chest",
+  "adventure_chest_epic": "@chest",
+  "adventure_chest_legendary": "@chest"
+}

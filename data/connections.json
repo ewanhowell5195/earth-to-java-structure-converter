@@ -1,0 +1,52 @@
+{
+  "sides": [
+    [
+      "north",
+      0,
+      0,
+      -1
+    ],
+    [
+      "south",
+      0,
+      0,
+      1
+    ],
+    [
+      "west",
+      -1,
+      0,
+      0
+    ],
+    [
+      "east",
+      1,
+      0,
+      0
+    ]
+  ],
+  "redstone": [
+    "redstone_wire",
+    "repeater",
+    "comparator",
+    "redstone_torch",
+    "redstone_wall_torch",
+    "lever",
+    "observer",
+    "target",
+    "tripwire_hook",
+    "daylight_detector",
+    "note_block",
+    "dispenser",
+    "dropper",
+    "piston",
+    "sticky_piston",
+    "tnt",
+    "redstone_lamp",
+    "redstone_block",
+    "rail",
+    "activator_rail",
+    "detector_rail",
+    "powered_rail"
+  ]
+}

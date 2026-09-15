@@ -1,0 +1,8 @@
+{
+  "trapdoor": "oak_trapdoor",
+  "wooden_button": "oak_button",
+  "fence_gate": "oak_fence_gate",
+  "wooden_pressure_plate": "oak_pressure_plate",
+  "stone_stairs": "cobblestone_stairs",
+  "end_brick_stairs": "end_stone_brick_stairs"
+}

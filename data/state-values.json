@@ -1,0 +1,175 @@
+{
+  "stairFacing": [
+    "east",
+    "west",
+    "south",
+    "north"
+  ],
+  "trapdoorFacing": [
+    "east",
+    "west",
+    "south",
+    "north"
+  ],
+  "buttonFace": [
+    [
+      "ceiling",
+      "north"
+    ],
+    [
+      "floor",
+      "north"
+    ],
+    [
+      "wall",
+      "north"
+    ],
+    [
+      "wall",
+      "south"
+    ],
+    [
+      "wall",
+      "west"
+    ],
+    [
+      "wall",
+      "east"
+    ]
+  ],
+  "wood": [
+    "oak",
+    "spruce",
+    "birch",
+    "jungle",
+    "acacia",
+    "dark_oak"
+  ],
+  "doublePlant": [
+    "sunflower",
+    "lilac",
+    "tall_grass",
+    "large_fern",
+    "rose_bush",
+    "peony"
+  ],
+  "doorFacing": [
+    "east",
+    "south",
+    "west",
+    "north"
+  ],
+  "direction": [
+    "south",
+    "west",
+    "north",
+    "east"
+  ],
+  "axis": [
+    "y",
+    "x",
+    "z"
+  ],
+  "facing": {
+    "2": "north",
+    "3": "south",
+    "4": "west",
+    "5": "east"
+  },
+  "slabTypes": {
+    "stone_slab": [
+      "smooth_stone",
+      "sandstone",
+      "petrified_oak",
+      "cobblestone",
+      "brick",
+      "stone_brick",
+      "quartz",
+      "nether_brick"
+    ],
+    "wooden_slab": [
+      "oak",
+      "spruce",
+      "birch",
+      "jungle",
+      "acacia",
+      "dark_oak"
+    ],
+    "stone_slab2": [
+      "red_sandstone",
+      "purpur",
+      "prismarine",
+      "dark_prismarine",
+      "prismarine_brick",
+      "mossy_cobblestone",
+      "smooth_sandstone",
+      "red_nether_brick"
+    ],
+    "stone_slab3": [
+      "end_stone_brick",
+      "smooth_red_sandstone",
+      "polished_andesite",
+      "andesite",
+      "diorite",
+      "polished_diorite",
+      "granite",
+      "polished_granite"
+    ],
+    "stone_slab4": [
+      "mossy_stone_brick",
+      "smooth_quartz",
+      "stone",
+      "cut_sandstone",
+      "cut_red_sandstone"
+    ]
+  },
+  "wallTypes": [
+    "cobblestone",
+    "mossy_cobblestone",
+    "granite",
+    "diorite",
+    "andesite",
+    "sandstone",
+    "brick",
+    "stone_brick",
+    "mossy_stone_brick",
+    "nether_brick",
+    "end_stone_brick",
+    "prismarine",
+    "red_sandstone",
+    "red_nether_brick"
+  ],
+  "sandstoneTypes": [
+    "",
+    "chiseled_",
+    "cut_",
+    "smooth_"
+  ],
+  "railShape": [
+    "north_south",
+    "east_west",
+    "ascending_east",
+    "ascending_west",
+    "ascending_north",
+    "ascending_south"
+  ],
+  "quartz": [
+    "quartz_block",
+    "chiseled_quartz_block",
+    "quartz_pillar",
+    "smooth_quartz"
+  ],
+  "redFlower": [
+    "poppy",
+    "blue_orchid",
+    "allium",
+    "azure_bluet",
+    "red_tulip",
+    "orange_tulip",
+    "white_tulip",
+    "pink_tulip",
+    "oxeye_daisy",
+    "cornflower",
+    "lily_of_the_valley"
+  ]
+}
